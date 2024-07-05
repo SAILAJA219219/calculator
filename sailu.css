@@ -1,0 +1,73 @@
+h1 {
+    /* background-color: rgb(131, 189, 189); */
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: center;
+}
+input  {
+    border-radius: 8px;
+    border-color: rgb(150, 57, 105); 
+    border-style: solid;
+    background-image: -moz-linear-gradient(40);
+    border-width: 4px;
+}
+button {
+    border-radius: 10px;
+    border-width: 4px;
+    border-style: calc();
+    border-color: cadetblue;
+    box-shadow: 20px;
+}
+
+button1 {
+    border-radius: 10px;
+    border-width: 4px;
+    border-style: calc();
+    border-color: cadetblue;
+    box-shadow: 20px;
+}
+label {
+    margin-top: 20px;
+    margin-left:120px;
+} 
+#pop {
+
+    margin-left: 175px;
+    margin-top: 15px;
+}
+#pop1 {
+    
+    margin-left: 175px;
+    margin-top: 15px;
+}
+#ppop {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#ppop1 {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#ppop2 {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#ppop3 {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#ppop4 {
+    margin-left: 50px;
+    margin-top: 15px;
+}
+#ans {
+    border-radius: 8px;
+    border-color: rgb(150, 57, 105); 
+    border-style: calc();
+    background-image: -moz-linear-gradient(40);
+    border-width: 4px;
+    margin-left: 120px;
+
+}
